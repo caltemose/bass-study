@@ -1,6 +1,6 @@
 # Bass Study Files/Notes
 
-Notes and other stuff for my study of bass guitar and related topics.
+Notes and other stuff for my study of bass guitar and related topics. xosjl
 
 ## Files in this Repo
 
